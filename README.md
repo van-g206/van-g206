@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou a Vanessa Thamiris! 👩‍💻
 
-<!--
-**van-g206/van-g206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Computação  
+💻 Técnica em Desenvolvimento de Sistemas  
+📈 Iniciando no mundo do Tráfego Pago  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Onde me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/vanessa-thamiris-machado-de-oliveira)
+- [CodePen](https://codepen.io/van-g206)
+- 📧 **E-mail:** vtmservicoss@gmail.com
+
+---
+
+### 🚀 Tecnologias que estou aprendendo:
+- HTML5 | CSS3 | JavaScript
+- ReactJS (em breve 💡)
+- VBA
+- Python
+- Gestão de Tráfego Pago
+
+---
+
+**"A tecnologia move o mundo e eu estou aprendendo a movê-lo também!"** 🌎✨
+
