@@ -1,15 +1,14 @@
 # Olá, eu sou a Vanessa Thamiris! 👩‍💻
 
-🎓 Estudante de Engenharia de Computação  
-💻 Técnica em Desenvolvimento de Sistemas  
-📈 Iniciando no mundo do Tráfego Pago  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UTFPR 
+💻 Desenvolvimento de Sistemas - ETEC - Etec Pedro D'Arcádia Neto
 
 ---
 
 🔗 Onde me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/vanessa-thamiris-machado-de-oliveira)
 - [CodePen](https://codepen.io/van-g206)
-- 📧 **E-mail:** vtmservicoss@gmail.com
+- 📧 **E-mail:** vanessathamiriss@gmail.com
 
 ---
 
