@@ -1,8 +1,7 @@
 <div align="center">
   
 # ⚡ Welcome to my Universe ⚡
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Vanessa!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Estudante+de+ADS+-+UTFPR;Bem-vindo+ao+meu+terminal...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Vanessa!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Estudante+de+ADS+-+UTFPR;Bem-vindo+ao+meu+terminal...)
 
 ---
 
