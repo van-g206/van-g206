@@ -1,11 +1,10 @@
 <div align="center">
 
-  <!-- GIF NO TOPO -->
-  <img src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded.gif" width="500px" alt="PicMix GIF">
+  <img src="https://raw.githubusercontent.com/MauroJulio/MauroJulio/main/assets/space.gif" width="600px" alt="Space Purple GIF">
 
   # Welcome to my Universe
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E066FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Vanessa!;Estudante+de+ADS+-+UTFPR;Bem-vindo+ao+meu+terminal...)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Vanessa!;Estudante+de+ADS+-+UTFPR;Bem-vindo+ao+meu+terminal...)
 
 </div>
 
