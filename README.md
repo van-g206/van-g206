@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://lh3.googleusercontent.com/pw/AP1GczO0U3XmP9N3yQdUp3wG9hK6eH_R2S62N5R2f7y0X8u-KkK0s10vA_D3h8_gK74G6H_SgH1G_s0vB9L0n9o=w1920-h1080" width="100%" alt="Space Background 8K">
+  <img src="https://media.istockphoto.com/id/1250590765/photo/abstract-space-3d-illustration-3d-image-background-a-bright-planet-in-space-in-a-nebula-and.jpg?s=170667a&w=0&k=20&c=6KedSXIUQFc7Fn5MALOohNEL1k_e70w5saiGhbDvmDE=" width="100%" alt="Space Background 8K">
 
   # Welcome to my Universe
 
