@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/MauroJulio/MauroJulio/main/assets/space.gif" width="600px" alt="Space Purple GIF">
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczO0U3XmP9N3yQdUp3wG9hK6eH_R2S62N5R2f7y0X8u-KkK0s10vA_D3h8_gK74G6H_SgH1G_s0vB9L0n9o=w1920-h1080" width="100%" alt="Space Background 8K">
 
   # Welcome to my Universe
 
