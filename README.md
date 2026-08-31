@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- GIF NO TOPO -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt5Ym8xbWlhZWszOWw1cTFmMmN1ZDRxZ2NpdGcxYmV5bmswcDR4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600px" alt="Space GIF">
+  <img src="https://img1.picmix.com/output/stamp/normal/4/8/6/7/2507684_6cf78.gif" width="500px" alt="PicMix GIF">
 
-  # ⚡ Welcome to my Universe ⚡
+  # 💫Welcome to my Universe
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=ff00ff&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Vanessa!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Estudante+de+ADS+-+UTFPR;Bem-vindo+ao+meu+terminal...)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=ff00ff&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Vanessa!;Estudante+de+ADS+-+UTFPR;Bem-vindo+ao+meu+terminal...)
 
 </div>
 
@@ -13,13 +13,13 @@
 
 ### About Me
 
-> *"A tecnologia move o mundo e eu estou aprendendo a movê-lo também!"* 
+> *"A tecnologia move o mundo e eu estou aprendendo a movê-lo também!"*
 
-- 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas (UTFPR)
-- 📜 **Formada em:** Técnico em Desenvolvimento de Sistemas (ETEC)
-- 💼 **Foco Atual:** Front-End Web Development
-- 🔭 **Atualmente trabalhando em:** `team-project-front`
-- 🌱 **No momento aprendendo:** `ReactJS` | `TypeScript` | `Tailwind CSS` | `PWA` | `VBA`
+- **Cursando:** Análise e Desenvolvimento de Sistemas (UTFPR)
+- **Formada em:** Técnico em Desenvolvimento de Sistemas (ETEC)
+- **Foco Atual:** Front-End Web Development
+- **Atualmente trabalhando em:** `team-project-front`
+- **No momento aprendendo:** `ReactJS` | `TypeScript` | `Tailwind CSS` | `PWA` | `VBA`
 
 ---
 
@@ -68,9 +68,5 @@
 <div align="center">
 
   ![](https://github-profile-trophy.vercel.app/?username=van-g206&theme=neon&no-frame=false&margin-w=4)
-
-  <br><br>
-
-  ![Visitor Count](https://komarev.com/ghpvc/?username=van-g206&color=00FFFF&style=flat-square&label=VISITANTES)
 
 </div>
