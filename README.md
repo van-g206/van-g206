@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- GIF NO TOPO -->
-  <img src="https://img1.picmix.com/output/stamp/normal/4/8/6/7/2507684_6cf78.gif" width="500px" alt="PicMix GIF">
+  <img src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded.gif" width="500px" alt="PicMix GIF">
 
   # 💫Welcome to my Universe
 
