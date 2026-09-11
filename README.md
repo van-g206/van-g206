@@ -44,7 +44,6 @@
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vm06_oliv)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessa-thamiris-machado-de-oliveira)
-[![Codepen](https://img.shields.io/badge/CODEPEN-111111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/van-g206)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessathamiriss@gmail.com)
 
 </div>
